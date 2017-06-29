@@ -73,3 +73,8 @@ cite {
   color: Sienna;
   font-weight: bold;
 }
+
+#pic {
+  width: 40%;
+  height: auto;
+}
