@@ -40,13 +40,13 @@ p.bg-primary {
 }
 
 h1 {
-  color: DarkBlue;
+  color: green;
   font-weight: bold;
   font-size: 70px
 }
 
 p {
-  color: Red;
+  color: DarkGoldenRod;
   font-weight: bold;
   font-size: 30px
 }
@@ -77,4 +77,31 @@ cite {
 #pic {
   width: 40%;
   height: auto;
+}
+
+#tyburn-button {
+  color: red;
+  font-weight: bold;
+}
+
+#fleet-button {
+  color: blue;
+  font-weight: bold;
+}
+
+h4 {
+  color: DarkBlue;
+  font-weight: bold;
+  font-size: 65px;
+}
+
+h5 {
+  color: DarkRed;
+  font-weight: bold;
+  font-size: 65px;
+}
+
+h2 {
+  color: indigo;
+  font-weight: bold;
 }
